@@ -1,0 +1,10 @@
+{
+  "model_config": {
+    "vocab_size": 626,
+    "d_model": 512,
+    "max_seq_len": 1024,
+    "n_params": 26064896
+  },
+  "global_step": 30000,
+  "timestamp": "2025-12-30T01:48:12.475802"
+}

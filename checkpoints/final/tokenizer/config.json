@@ -1,0 +1,13 @@
+{
+  "vocab_size": 32000,
+  "special_tokens": {
+    "<pad>": 0,
+    "<unk>": 1,
+    "<bos>": 2,
+    "<eos>": 3,
+    "<sep>": 4,
+    "<mask>": 5,
+    "<code>": 6,
+    "</code>": 7
+  }
+}

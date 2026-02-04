@@ -1,0 +1,11 @@
+{
+  "model_config": {
+    "vocab_size": 626,
+    "d_model": 512,
+    "max_seq_len": 1024,
+    "n_params": 26064896
+  },
+  "sft_type": "conversation",
+  "epochs": 5,
+  "learning_rate": 5e-05
+}
